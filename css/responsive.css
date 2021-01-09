@@ -292,8 +292,11 @@ font-size: 14px;
 #what-part .text ul li{
     font-size: 18px;
 }
+#what-part .slider ul li button{
+    left: 45%;
+}
 #what-part .next{
-    left:62%    ;
+    left:60%    ;
 }
 /* what part end */
 /* world part start */
@@ -334,25 +337,30 @@ font-size: 14px;
 /* world part end */
 /* form part start */
 #form-part{
-   text-align: center;
+  
    padding: 50px 0;
 }
 
 #form-part h1{
     font-size: 28px;
-    padding-left: 0;
+    padding-left: 20px;
     margin-bottom: 10px;
 }
 #form-part h2{
     font-size: 28px;
     padding-left: 20px;
 }
-
+#form-part .text{
+    text-align: center;
+}
 #form-part p{
     width: auto;
 }
 #form-part h3{
     line-height: 45px;
+}
+#form-part .left{
+    text-align: center;
 }
 #form-part .left ul li input{
     width: auto;
@@ -877,18 +885,18 @@ margin-top: 30px;
 /* world part end */
 /* form part start */
 #form-part{
-   text-align: center;
+ 
    padding: 50px 0;
 }
 
 #form-part h1{
-    font-size: 28px;
-    padding-left: 0;
+    font-size: 40px;
+    padding-left: 20px ;
     margin-bottom: 10px;
 }
 #form-part h2{
-    font-size: 28px;
-    padding-left: 20px;
+    font-size: 40px;
+    padding-left: 30px;
 }
 
 #form-part p{
@@ -897,6 +905,13 @@ margin-top: 30px;
 #form-part h3{
     line-height: 45px;
 }
+#form-part .text{
+    text-align: center;
+}
+#form-part .left{
+    text-align: center;
+}
+
 #form-part .left ul li input{
     width: auto;
     padding: 15px 10px;
@@ -1391,18 +1406,18 @@ margin-top: 30px;
 /* world part end */
 /* form part start */
 #form-part{
-   text-align: center;
+ 
    padding: 50px 0;
 }
 
 #form-part h1{
     
-    padding-left: 0;
+    padding-left: 20px;
     margin-bottom: 10px;
 }
 #form-part h2{
-    font-size: 30px;
-    padding-left: 20px;
+
+    padding-left: 30px;
 }
 
 #form-part p{
@@ -1410,6 +1425,12 @@ margin-top: 30px;
 }
 #form-part h3{
     line-height: 45px;
+}
+#form-part .text{
+    text-align: center;
+}
+#form-part .left{
+    text-align: center;
 }
 #form-part .left ul li input{
 
